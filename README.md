@@ -1,5 +1,7 @@
 # QA Retrieval System for Medical Technology Company
 
+![Banner](images/banner.png)
+
 ## Project Overview
 This project focuses on building a question-answering (QA) retrieval system to help customers find information about ultrasound probes and systems. The goal is to provide a comprehensive solution that can answer a variety of questions related to probe and system compatibility, specifications, and availability.
 
