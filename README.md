@@ -32,7 +32,16 @@ The main steps involved in this project are:
    - Analyze the RR distribution for different question types (related to probes and systems) across the various models.
    - Create boxplots to visualize the RR distribution and perform statistical analysis using Tukey's Honest Significant Difference (HSD) test and create bar charts to identify significant differences between the models.
 
+### Distribution of reciprocal rank scores for each question type and embedding model
+
+![Boxplot Visualization](images/boxplot.png)
+
+### Comparison of Mean Reciprocal Rank (RR) for each question type and embedding model
+
+![Bar Chart Visualization](images/bar_chart.png)
+
 ## Dependencies
+
 - Python 3.x
 - pandas
 - transformers
