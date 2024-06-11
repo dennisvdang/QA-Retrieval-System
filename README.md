@@ -1,9 +1,9 @@
-# QA Retrieval System for Medical Technology Company
+# QA Information Retrieval System using Fine-Tuned DistilBERT
 
 ![Banner](images/banner.png)
 
 ## Project Overview
-This project focuses on building a question-answering (QA) retrieval system to help customers find information about ultrasound probes and systems. The goal is to provide a comprehensive solution that can answer a variety of questions related to probe and system compatibility, specifications, and availability.
+This project focuses on building a question-answering (QA) information retrieval system to help customers find information about ultrasound probes and systems. The goal is to provide a comprehensive solution that can answer a variety of questions related to probe and system compatibility, specifications, and availability.
 
 ## Data
 The project utilizes two datasets that were created from a portion of the company's catalog:
