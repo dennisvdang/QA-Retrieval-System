@@ -1,6 +1,6 @@
 # QA Information Retrieval System using Fine-Tuned DistilBERT
 
-![Banner](images/banner.png)
+![MRR Test](images/mrr_test_plot.png)
 
 ## Project Overview
 
@@ -9,8 +9,6 @@ This project focuses on developing and fine-tuning a question-answering (QA) inf
 The methodology involves generating a document corpus from tabular data, generating synthetic queries using a local large language model (LLM), evaluating pre-trained embedding models from HuggingFace, Bayesian optimization for hyperparameter tuning, and fine-tuning.
 
 The fine-tuned DistilBERT model consistently outperformed other pre-trained models on a holdout test set across various performance metrics, showcasing the effectiveness of the fine-tuning process and the model's adaptability to the specific domain and data characteristics.
-
-![MRR Test](images/mrr_test_plot.png)
 
 ## Project Resources
 
