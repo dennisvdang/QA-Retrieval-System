@@ -4,7 +4,13 @@
 
 ## Project Overview
 
-This project focuses on building and fine-tuning a question-answering (QA) information retrieval system to help customers find information about ultrasound probes and systems. The goal is to provide a comprehensive solution that can answer a variety of questions related to probe and system compatibility, specifications, and availability.
+This project focuses on developing a question-answering (QA) information retrieval system to help customers find information about various medical equipments. The system is built using a fine-tuned DistilBERT model to provide accurate and comprehensive answers to a wide range of customer queries. 
+
+The methodology involves generating a document corpus from tabular data, generating synthetic queries using a local large language model (LLM), evaluating pre-trained embedding models from HuggingFace, Bayesian optimization for hyperparameter tuning, and fine-tuning.
+
+The fine-tuned DistilBERT model consistently outperformed other pre-trained models on a holdout test set across various performance metrics, showcasing the effectiveness of the fine-tuning process and the model's adaptability to the specific domain and data characteristics.
+
+![MRR Test](images/mrr_test_plot.png)
 
 ## Project Resources
 
@@ -12,12 +18,12 @@ Below, you'll find information on where to locate specific files:
 
 - [`notebooks/qa_system.ipynb`](notebooks/qa_system.ipynb): This Jupyter Notebook contains the majority of the code used in the project, including data cleaning, query generation using OLLaMA, significance testing, Bayesian optimization, and fine-tuning of the selected model.
 
-- `docs/`: The "docs" folder contains the following important documents:
-  - `Capstone_Final_Report.pdf`: The final report for the capstone project, detailing the project's objectives, methodology, results, and conclusions.
-  - `Capstone_3_Presentation.pptx`: The PowerPoint slides used for the capstone project presentation.
-  - `Capstone_3_Presentation.pdf`: A PDF version of the capstone project presentation slides.
+- [`docs/`](docs/): The "docs" folder contains the following important documents:
+  - [`Capstone_Final_Report.pdf`](docs/Capstone_Final_Report.pdf): The final report for the capstone project, detailing the project's objectives, methodology, results, and conclusions.
+  - [`Capstone_3_Presentation.pptx`](docs/Capstone_3_Presentation.pptx): The PowerPoint slides used for the capstone project presentation.
+  - [`Capstone_3_Presentation.pdf`](docs/Capstone_3_Presentation.pdf): A PDF version of the capstone project presentation slides.
 
-- `images/`: The "images" folder contains various plots and charts generated throughout the project. 
+- [`images/`](images/): The "images" folder contains various plots and charts generated throughout the project.
 
 Feel free to explore these resources to gain a deeper understanding of the project's implementation, findings, and deliverables.
 
@@ -100,13 +106,14 @@ The fine-tuned DistilBERT model was evaluated on a holdout test set and compared
 
 This project successfully developed a QA information retrieval system using a fine-tuned DistilBERT model to answer customer queries about ultrasound probes and systems. The system's performance highlights the importance of tailoring the model to the specific domain and data characteristics. Future work could explore expanding the QA system to handle more complex queries and integrate large language model chains with structured database queries for even more accurate and comprehensive responses.
 
-## Dependencies
+## Libraries & Dependencies
 
 - Python 3.x
+- numpy
 - pandas
-- transformers
 - torch
 - sklearn
 - matplotlib
 - sentence-transformers
 - statsmodels
+- langchain
