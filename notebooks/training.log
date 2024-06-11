@@ -1,0 +1,180 @@
+2024-06-10 01:10:22,082 - INFO - Epoch: 1.0, Steps: -1
+Information Retrieval Evaluation of the model on the validation-ir-eval dataset:
+Queries: 144
+Corpus: 324
+
+validation-ir-eval_cosine_accuracy@1: 0.875
+validation-ir-eval_cosine_accuracy@3: 0.9236111111111112
+validation-ir-eval_cosine_accuracy@5: 0.9375
+validation-ir-eval_cosine_accuracy@10: 0.9861111111111112
+validation-ir-eval_cosine_precision@1: 0.875
+validation-ir-eval_cosine_precision@3: 0.30787037037037035
+validation-ir-eval_cosine_precision@5: 0.18749999999999997
+validation-ir-eval_cosine_precision@10: 0.09861111111111111
+validation-ir-eval_cosine_recall@1: 0.875
+validation-ir-eval_cosine_recall@3: 0.9236111111111112
+validation-ir-eval_cosine_recall@5: 0.9375
+validation-ir-eval_cosine_recall@10: 0.9861111111111112
+validation-ir-eval_cosine_ndcg@10: 0.9236591981598521
+validation-ir-eval_cosine_mrr@10: 0.9045111331569665
+validation-ir-eval_cosine_map@100: 0.9052476651434986
+validation-ir-eval_dot_accuracy@1: 0.875
+validation-ir-eval_dot_accuracy@3: 0.9236111111111112
+validation-ir-eval_dot_accuracy@5: 0.9375
+validation-ir-eval_dot_accuracy@10: 0.9861111111111112
+validation-ir-eval_dot_precision@1: 0.875
+validation-ir-eval_dot_precision@3: 0.30787037037037035
+validation-ir-eval_dot_precision@5: 0.18749999999999997
+validation-ir-eval_dot_precision@10: 0.09861111111111111
+validation-ir-eval_dot_recall@1: 0.875
+validation-ir-eval_dot_recall@3: 0.9236111111111112
+validation-ir-eval_dot_recall@5: 0.9375
+validation-ir-eval_dot_recall@10: 0.9861111111111112
+validation-ir-eval_dot_ndcg@10: 0.9236591981598521
+validation-ir-eval_dot_mrr@10: 0.9045111331569665
+validation-ir-eval_dot_map@100: 0.9052476651434986
+
+2024-06-10 01:11:06,066 - INFO - Epoch: 2.0, Steps: -1
+Information Retrieval Evaluation of the model on the validation-ir-eval dataset:
+Queries: 144
+Corpus: 324
+
+validation-ir-eval_cosine_accuracy@1: 0.8680555555555556
+validation-ir-eval_cosine_accuracy@3: 0.9722222222222222
+validation-ir-eval_cosine_accuracy@5: 0.9791666666666666
+validation-ir-eval_cosine_accuracy@10: 0.9930555555555556
+validation-ir-eval_cosine_precision@1: 0.8680555555555556
+validation-ir-eval_cosine_precision@3: 0.32407407407407407
+validation-ir-eval_cosine_precision@5: 0.1958333333333333
+validation-ir-eval_cosine_precision@10: 0.09930555555555555
+validation-ir-eval_cosine_recall@1: 0.8680555555555556
+validation-ir-eval_cosine_recall@3: 0.9722222222222222
+validation-ir-eval_cosine_recall@5: 0.9791666666666666
+validation-ir-eval_cosine_recall@10: 0.9930555555555556
+validation-ir-eval_cosine_ndcg@10: 0.9367861894205554
+validation-ir-eval_cosine_mrr@10: 0.9180169753086419
+validation-ir-eval_cosine_map@100: 0.918479938271605
+validation-ir-eval_dot_accuracy@1: 0.8680555555555556
+validation-ir-eval_dot_accuracy@3: 0.9722222222222222
+validation-ir-eval_dot_accuracy@5: 0.9791666666666666
+validation-ir-eval_dot_accuracy@10: 0.9930555555555556
+validation-ir-eval_dot_precision@1: 0.8680555555555556
+validation-ir-eval_dot_precision@3: 0.32407407407407407
+validation-ir-eval_dot_precision@5: 0.1958333333333333
+validation-ir-eval_dot_precision@10: 0.09930555555555555
+validation-ir-eval_dot_recall@1: 0.8680555555555556
+validation-ir-eval_dot_recall@3: 0.9722222222222222
+validation-ir-eval_dot_recall@5: 0.9791666666666666
+validation-ir-eval_dot_recall@10: 0.9930555555555556
+validation-ir-eval_dot_ndcg@10: 0.9367861894205554
+validation-ir-eval_dot_mrr@10: 0.9180169753086419
+validation-ir-eval_dot_map@100: 0.918479938271605
+
+2024-06-10 01:11:50,640 - INFO - Epoch: 3.0, Steps: -1
+Information Retrieval Evaluation of the model on the validation-ir-eval dataset:
+Queries: 144
+Corpus: 324
+
+validation-ir-eval_cosine_accuracy@1: 0.875
+validation-ir-eval_cosine_accuracy@3: 0.9652777777777778
+validation-ir-eval_cosine_accuracy@5: 0.9930555555555556
+validation-ir-eval_cosine_accuracy@10: 1.0
+validation-ir-eval_cosine_precision@1: 0.875
+validation-ir-eval_cosine_precision@3: 0.32175925925925924
+validation-ir-eval_cosine_precision@5: 0.1986111111111111
+validation-ir-eval_cosine_precision@10: 0.09999999999999999
+validation-ir-eval_cosine_recall@1: 0.875
+validation-ir-eval_cosine_recall@3: 0.9652777777777778
+validation-ir-eval_cosine_recall@5: 0.9930555555555556
+validation-ir-eval_cosine_recall@10: 1.0
+validation-ir-eval_cosine_ndcg@10: 0.9435024364320819
+validation-ir-eval_cosine_mrr@10: 0.9247685185185185
+validation-ir-eval_cosine_map@100: 0.9247685185185185
+validation-ir-eval_dot_accuracy@1: 0.875
+validation-ir-eval_dot_accuracy@3: 0.9652777777777778
+validation-ir-eval_dot_accuracy@5: 0.9930555555555556
+validation-ir-eval_dot_accuracy@10: 1.0
+validation-ir-eval_dot_precision@1: 0.875
+validation-ir-eval_dot_precision@3: 0.32175925925925924
+validation-ir-eval_dot_precision@5: 0.1986111111111111
+validation-ir-eval_dot_precision@10: 0.09999999999999999
+validation-ir-eval_dot_recall@1: 0.875
+validation-ir-eval_dot_recall@3: 0.9652777777777778
+validation-ir-eval_dot_recall@5: 0.9930555555555556
+validation-ir-eval_dot_recall@10: 1.0
+validation-ir-eval_dot_ndcg@10: 0.9435024364320819
+validation-ir-eval_dot_mrr@10: 0.9247685185185185
+validation-ir-eval_dot_map@100: 0.9247685185185185
+
+2024-06-10 01:12:37,168 - INFO - Epoch: 4.0, Steps: -1
+Information Retrieval Evaluation of the model on the validation-ir-eval dataset:
+Queries: 144
+Corpus: 324
+
+validation-ir-eval_cosine_accuracy@1: 0.9027777777777778
+validation-ir-eval_cosine_accuracy@3: 0.9722222222222222
+validation-ir-eval_cosine_accuracy@5: 0.9930555555555556
+validation-ir-eval_cosine_accuracy@10: 1.0
+validation-ir-eval_cosine_precision@1: 0.9027777777777778
+validation-ir-eval_cosine_precision@3: 0.32407407407407407
+validation-ir-eval_cosine_precision@5: 0.1986111111111111
+validation-ir-eval_cosine_precision@10: 0.09999999999999999
+validation-ir-eval_cosine_recall@1: 0.9027777777777778
+validation-ir-eval_cosine_recall@3: 0.9722222222222222
+validation-ir-eval_cosine_recall@5: 0.9930555555555556
+validation-ir-eval_cosine_recall@10: 1.0
+validation-ir-eval_cosine_ndcg@10: 0.9545401321159682
+validation-ir-eval_cosine_mrr@10: 0.9395833333333332
+validation-ir-eval_cosine_map@100: 0.9395833333333334
+validation-ir-eval_dot_accuracy@1: 0.9027777777777778
+validation-ir-eval_dot_accuracy@3: 0.9722222222222222
+validation-ir-eval_dot_accuracy@5: 0.9930555555555556
+validation-ir-eval_dot_accuracy@10: 1.0
+validation-ir-eval_dot_precision@1: 0.9027777777777778
+validation-ir-eval_dot_precision@3: 0.32407407407407407
+validation-ir-eval_dot_precision@5: 0.1986111111111111
+validation-ir-eval_dot_precision@10: 0.09999999999999999
+validation-ir-eval_dot_recall@1: 0.9027777777777778
+validation-ir-eval_dot_recall@3: 0.9722222222222222
+validation-ir-eval_dot_recall@5: 0.9930555555555556
+validation-ir-eval_dot_recall@10: 1.0
+validation-ir-eval_dot_ndcg@10: 0.9545401321159682
+validation-ir-eval_dot_mrr@10: 0.9395833333333332
+validation-ir-eval_dot_map@100: 0.9395833333333334
+
+2024-06-10 01:12:41,331 - INFO - Epoch: -1, Steps: -1
+Information Retrieval Evaluation of the model on the validation-ir-eval dataset:
+Queries: 144
+Corpus: 324
+
+validation-ir-eval_cosine_accuracy@1: 0.9027777777777778
+validation-ir-eval_cosine_accuracy@3: 0.9722222222222222
+validation-ir-eval_cosine_accuracy@5: 0.9930555555555556
+validation-ir-eval_cosine_accuracy@10: 1.0
+validation-ir-eval_cosine_precision@1: 0.9027777777777778
+validation-ir-eval_cosine_precision@3: 0.32407407407407407
+validation-ir-eval_cosine_precision@5: 0.1986111111111111
+validation-ir-eval_cosine_precision@10: 0.09999999999999999
+validation-ir-eval_cosine_recall@1: 0.9027777777777778
+validation-ir-eval_cosine_recall@3: 0.9722222222222222
+validation-ir-eval_cosine_recall@5: 0.9930555555555556
+validation-ir-eval_cosine_recall@10: 1.0
+validation-ir-eval_cosine_ndcg@10: 0.9545401321159682
+validation-ir-eval_cosine_mrr@10: 0.9395833333333332
+validation-ir-eval_cosine_map@100: 0.9395833333333334
+validation-ir-eval_dot_accuracy@1: 0.9027777777777778
+validation-ir-eval_dot_accuracy@3: 0.9722222222222222
+validation-ir-eval_dot_accuracy@5: 0.9930555555555556
+validation-ir-eval_dot_accuracy@10: 1.0
+validation-ir-eval_dot_precision@1: 0.9027777777777778
+validation-ir-eval_dot_precision@3: 0.32407407407407407
+validation-ir-eval_dot_precision@5: 0.1986111111111111
+validation-ir-eval_dot_precision@10: 0.09999999999999999
+validation-ir-eval_dot_recall@1: 0.9027777777777778
+validation-ir-eval_dot_recall@3: 0.9722222222222222
+validation-ir-eval_dot_recall@5: 0.9930555555555556
+validation-ir-eval_dot_recall@10: 1.0
+validation-ir-eval_dot_ndcg@10: 0.9545401321159682
+validation-ir-eval_dot_mrr@10: 0.9395833333333332
+validation-ir-eval_dot_map@100: 0.9395833333333334
+

@@ -1,0 +1,96 @@
+content,tags,question,score
+"The ATL C3 probe is suitable for the following applications: abdominal, general.","frozenset({'abdominal, general', 'ATL', 'probes', 'applications', 'C3'})",Are there any other uses for the ATL C3 transducer aside from abdominal and general applications?,0
+The ATL C3 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'C3', 'stock', 'probes'})",Is the ATL C3 probe currently in stock?,1
+The ATL C3 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'C3', 'stock', 'probes'})",Can you still purchase the ATL C3 probe?,1
+The ATL C3 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'C3', 'stock', 'probes'})",Are there any ATL C3 probes available for sale?,1
+The ATL C4-2 probe is compatible with the following systems: HDI 5000.,"frozenset({'HDI 5000', 'C4-2', 'ATL', 'probes', 'compatibility'})",Is the ATL C4-2 probe only used with HDI 5000 systems?,0
+The frequency range of the ATL C4-2 probe is 2.0 - 4.0 MHz.,"frozenset({'ATL', 'frequency', 'C4-2', 'probes'})",Is the frequency range of the ATL C4-2 probe greater than 4.0 MHz?,1
+The ATL C5-2 is a convex array type probe.,"frozenset({'ATL', 'array type', 'C5-2', 'probes'})",Is the ATL C5-2 probe suitable for cardiac applications?,0
+The frequency range of the ATL C5-2 probe is 2.0 - 5.0 MHz.,"frozenset({'ATL', 'frequency', 'C5-2', 'probes'})",Is the frequency range of the ATL C5-2 probe greater than 5.0 MHz?,1
+The ATL C5-IVT probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'C5-IVT', 'stock', 'probes'})",Is the ATL C5-IVT probe currently in stock?,1
+The ATL C5-IVT probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'C5-IVT', 'stock', 'probes'})",Can you find any application information about the ATL C5-IVT probe?,0
+The ATL C5-IVT probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'C5-IVT', 'stock', 'probes'})",What is the minimum frequency range of the ATL C5-IVT probe?,0
+The ATL C7-4 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'C7-4', 'stock', 'probes'})",Is the ATL C7-4 probe currently available for sale?,1
+The ATL C7-4 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'C7-4', 'stock', 'probes'})",Can you use the ATL C7-4 probe for a specific application?,0
+The manufacturer of the C8-4v probe is ATL.,"frozenset({'ATL', 'manufacturer', 'C8-4v', 'probes'})",What type of array is used by the C8-4v probe?,0
+The ATL C8-4v probe is currently in stock and available for sale.,"frozenset({'ATL', 'C8-4v', 'stock', 'probes'})",What types of probes is the ATL C8-4v suitable for?,0
+The ATL C9-5ICT probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'stock', 'C9-5ICT', 'probes'})",Is the ATL C9-5ICT probe currently available for sale?,1
+The ATL C9-5ICT probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'stock', 'C9-5ICT', 'probes'})",Are there any ATL C9-5ICT probes in stock?,1
+The ATL CL 10-5 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'CL 10-5', 'stock', 'probes'})",Is the ATL CL 10-5 probe currently available for sale?,1
+The ATL CL 10-5 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'CL 10-5', 'stock', 'probes'})",Are there any ATL CL 10-5 probes currently in stock?,1
+"The ATL CT8-4 probe is suitable for the following applications: abdominal, surgical.","frozenset({'ATL', 'probes', 'abdominal, surgical', 'applications', 'CT8-4'})",Are there any specific systems or modalities that the ATL CT8-4 is compatible with?,0
+The manufacturer of the L10-5 probe is ATL.,"frozenset({'ATL', 'manufacturer', 'L10-5', 'probes'})",What is the frequency range of the L10-5 probe?,0
+The ATL L10-5 probe is compatible with the following systems: HDI 5000.,"frozenset({'HDI 5000', 'ATL', 'probes', 'compatibility', 'L10-5'})",What is the frequency range of the ATL L10-5 probe?,0
+The ATL L10-5 probe is currently in stock and available for sale.,"frozenset({'ATL', 'L10-5', 'stock', 'probes'})",What is the frequency range of the ATL L10-5 probe?,0
+The manufacturer of the L12-5 probe is ATL.,"frozenset({'ATL', 'manufacturer', 'L12-5', 'probes'})",What is the frequency range of the L12-5 probe?,0
+The ATL L12-5 probe is compatible with the following systems: HDI 5000.,"frozenset({'HDI 5000', 'ATL', 'probes', 'compatibility', 'L12-5'})",Can you find any information about the ATL L12-5 probe's frequency range?,0
+The manufacturer of the L7-4 probe is ATL.,"frozenset({'ATL', 'manufacturer', 'L7-4', 'probes'})",Is the manufacturer of the L7-4 probe also the same as another known manufacturer?,0
+The ATL L7-4 is a linear array type probe.,"frozenset({'ATL', 'array type', 'L7-4', 'probes'})",Does the ATL L7-4 have a specified frequency range?,0
+The ATL L7-4 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'stock', 'L7-4', 'probes'})",Is the ATL L7-4 probe currently available for sale?,1
+The ATL L7-4 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'stock', 'L7-4', 'probes'})",Are there any ATL L7-4 probes in stock?,1
+The ATL MPT 7-4 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'stock', 'MPT 7-4', 'probes'})",Is the ATL MPT 7-4 probe currently available for sale?,1
+The ATL MPT 7-4 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'stock', 'MPT 7-4', 'probes'})",Can you order the ATL MPT 7-4 probe at this time?,1
+The ATL P3-2 probe is compatible with the following systems: HDI 5000.,"frozenset({'HDI 5000', 'ATL', 'probes', 'compatibility', 'P3-2'})","Is the ATL P3-2 probe suitable for all of the following applications: cardiac, vascular, general?",0
+The ATL P3-2 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'stock', 'P3-2', 'probes'})",Is the ATL P3-2 probe currently available for sale?,1
+The ATL P3-2 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'stock', 'P3-2', 'probes'})",Can you purchase the ATL P3-2 probe?,1
+The frequency range of the ATL P3-2 probe is 2.0 - 3.0 MHz.,"frozenset({'ATL', 'frequency', 'P3-2', 'probes'})",Does the frequency range of the ATL P3-2 probe exceed 10.0 MHz?,1
+The frequency range of the ATL P4-1 probe is 1.0 - 4.0 MHz.,"frozenset({'ATL', 'P4-1', 'frequency', 'probes'})",Is the frequency range of the ATL P4-1 probe above 4.0 MHz?,1
+The manufacturer of the P4-2 probe is ATL.,"frozenset({'ATL', 'manufacturer', 'P4-2', 'probes'})",Can the P4-2 probe be used for cardiac applications?,0
+The ATL P4-2 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'stock', 'P4-2', 'probes'})",Is the ATL P4-2 probe currently available for sale?,1
+The ATL P4-2 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'stock', 'P4-2', 'probes'})",Are there any ATL P4-2 probes available for purchase?,1
+The frequency range of the ATL P4-2 probe is 2.0 - 4.0 MHz.,"frozenset({'ATL', 'frequency', 'P4-2', 'probes'})",Is the frequency range of the ATL P4-2 transducer above or below 5.0 MHz?,0
+The ATL P5-3 is a phased array type probe.,"frozenset({'ATL', 'array type', 'P5-3', 'probes'})",Is the ATL P5-3 probe suitable for cardiac applications?,0
+The ATL P5-3 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'P5-3', 'stock', 'probes'})",Is the ATL P5-3 probe currently available for sale?,1
+The manufacturer of the P6-3 probe is ATL.,"frozenset({'ATL', 'manufacturer', 'P6-3', 'probes'})",What type of applications can the P6-3 probe be used for?,0
+The ATL P6-3 probe is compatible with the following systems: HDI 5000.,"frozenset({'P6-3', 'HDI 5000', 'ATL', 'probes', 'compatibility'})",Is the ATL P6-3 probe suitable for cardiac applications?,0
+The ATL P6-3 is a phased array type probe.,"frozenset({'ATL', 'array type', 'P6-3', 'probes'})",Is the ATL P6-3 probe suitable for cardiac applications?,0
+The ATL P6-3 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'P6-3', 'stock', 'probes'})",Is the ATL P6-3 probe currently available for sale?,1
+The ATL P6-3 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'P6-3', 'stock', 'probes'})",What type of applications is the ATL P6-3 probe suitable for?,0
+The frequency range of the ATL P6-3 probe is 3.0 - 6.0 MHz.,"frozenset({'ATL', 'frequency', 'P6-3', 'probes'})",Is the frequency range of the ATL P6-3 probe greater than 6.0 MHz?,1
+The frequency range of the ATL P6-3 probe is 3.0 - 6.0 MHz.,"frozenset({'ATL', 'frequency', 'P6-3', 'probes'})",Does the frequency range of the ATL P6-3 probe exceed 10.0 MHz?,1
+The manufacturer of the P7-4 probe is ATL.,"frozenset({'ATL', 'manufacturer', 'P7-4', 'probes'})",Does the manufacturer of the P7-4 probe make the C3 probe?,0
+The ATL P7-4 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'stock', 'P7-4', 'probes'})",Is the ATL P7-4 probe currently available for sale?,1
+The ATL P7-4 probe is currently out of stock or not available for sale.,"frozenset({'ATL', 'stock', 'P7-4', 'probes'})",Can you purchase the ATL P7-4 probe?,1
+The frequency range of the G.E. 227s probe is 2.0 - 4.0 MHz.,"frozenset({'G.E.', 'frequency', '227s', 'probes'})",Does the frequency range of the G.E. 227s probe exceed 4.0 MHz?,1
+The frequency range of the G.E. 227s probe is 2.0 - 4.0 MHz.,"frozenset({'G.E.', 'frequency', '227s', 'probes'})",Is the frequency range of the G.E. 227s probe between 2.0 and 10.0 MHz?,1
+The frequency range of the G.E. 618c probe is 5.0 - 6.0 MHz.,"frozenset({'G.E.', '618c', 'frequency', 'probes'})",Is the frequency range of the G.E. 618c transducer greater than 6.0 MHz?,1
+The manufacturer of the RAB2-5L probe is G.E..,"frozenset({'G.E.', 'manufacturer', 'RAB2-5L', 'probes'})",Is the RAB2-5L probe currently available for sale?,0
+The G.E. RAB2-5L is a convex array type probe.,"frozenset({'G.E.', 'array type', 'RAB2-5L', 'probes'})",Is the G.E. RAB2-5L probe in stock and available for sale?,0
+The G.E. RAB2-5L is a convex array type probe.,"frozenset({'G.E.', 'array type', 'RAB2-5L', 'probes'})",What frequency range does the G.E. RAB2-5L transducer operate on?,0
+The frequency range of the G.E. RAB2-5L probe is 2.5 - 5.0 MHz.,"frozenset({'G.E.', 'frequency', 'RAB2-5L', 'probes'})",Is the frequency range of the G.E. RAB2-5L probe greater than 5.0 MHz?,1
+The frequency range of the G.E. RIC5-9D probe is 5.0 - 9.0 MHz.,"frozenset({'G.E.', 'frequency', 'RIC5-9D', 'probes'})",Can the G.E. RIC5-9D probe be used for frequencies below 5.0 MHz?,1
+The manufacturer of the C8-4v probe is Philips.,"frozenset({'manufacturer', 'Philips', 'C8-4v', 'probes'})",What type of array does the Philips C8-4v probe have?,0
+The Philips C8-4v probe is currently in stock and available for sale.,"frozenset({'stock', 'Philips', 'C8-4v', 'probes'})",What type of array does the Philips C8-4v probe have?,0
+The frequency range of the Philips C8-5 probe is 5.0 - 8.0 MHz.,"frozenset({'C8-5', 'frequency', 'Philips', 'probes'})",Is the frequency range of the Philips C8-5 probe above 8.0 MHz?,1
+The frequency range of the Philips C8-5 probe is 5.0 - 8.0 MHz.,"frozenset({'C8-5', 'frequency', 'Philips', 'probes'})",Does the Philips C8-5 probe operate within a frequency range of 5.0 - 10.0 MHz?,1
+The frequency range of the Philips C9-3v probe is 3.0 - 9.0 MHz.,"frozenset({'C9-3v', 'frequency', 'Philips', 'probes'})",Is the frequency range of the Philips C9-3v probe above 5.0 MHz?,1
+The manufacturer of the L12-3 probe is Philips.,"frozenset({'L12-3', 'manufacturer', 'Philips', 'probes'})",Is the Philips L12-3 probe compatible with multiple ultrasound systems?,0
+The manufacturer of the L12-3 probe is Philips.,"frozenset({'L12-3', 'manufacturer', 'Philips', 'probes'})",What is the frequency range of the Philips L12-3 probe?,0
+The Philips L12-3 probe is currently out of stock or not available for sale.,"frozenset({'L12-3', 'Philips', 'stock', 'probes'})",Is the Philips L12-3 probe available for sale?,1
+The Philips L12-3 probe is currently out of stock or not available for sale.,"frozenset({'L12-3', 'Philips', 'stock', 'probes'})",Are there any L12-3 transducers currently in stock?,1
+The frequency range of the Philips L12-3 probe is 3.0 - 12.0 MHz.,"frozenset({'L12-3', 'frequency', 'Philips', 'probes'})",Is the Philips L12-3 probe a convex array type transducer?,0
+The manufacturer of the L15-7io probe is Philips.,"frozenset({'manufacturer', 'Philips', 'L15-7io', 'probes'})",What is the manufacturer of the L15-7io probe's transducer?,1
+The manufacturer of the S4-1 probe is Philips.,"frozenset({'manufacturer', 'Philips', 'S4-1', 'probes'})",Is the S4-1 probe made by a company other than ATL?,1
+The manufacturer of the S4-1 probe is Philips.,"frozenset({'manufacturer', 'Philips', 'S4-1', 'probes'})",Is the manufacturer of the S4-1 probe different from the manufacturer of the C3 probe?,0
+The Philips S4-2 probe is currently out of stock or not available for sale.,"frozenset({'stock', 'S4-2', 'Philips', 'probes'})",Is the Philips S4-2 probe currently available for sale?,1
+The Philips S4-2 probe is currently out of stock or not available for sale.,"frozenset({'stock', 'S4-2', 'Philips', 'probes'})",Are there any Philips S4-2 probes in stock?,1
+The Philips S4-2 probe is currently out of stock or not available for sale.,"frozenset({'stock', 'S4-2', 'Philips', 'probes'})",Is the Philips S4-2 probe currently available for sale?,1
+The Philips S4-2 probe is currently out of stock or not available for sale.,"frozenset({'stock', 'S4-2', 'Philips', 'probes'})",Do you have any Philips S4-2 probes in stock?,1
+The manufacturer of the 10V4 probe is Siemens Acuson.,"frozenset({'manufacturer', '10V4', 'Siemens Acuson', 'probes'})",What is the frequency range of the Siemens Acuson 10V4 probe?,0
+The Siemens Acuson 12L3 probe is currently out of stock or not available for sale.,"frozenset({'stock', '12L3', 'Siemens Acuson', 'probes'})",Is the Siemens Acuson 12L3 probe currently available for sale?,1
+The Siemens Acuson 12L3 probe is currently out of stock or not available for sale.,"frozenset({'stock', '12L3', 'Siemens Acuson', 'probes'})",Do you have any Siemens Acuson 12L3 probes in stock?,1
+The Siemens Acuson 15L8W probe is compatible with the following systems: Sequoia.,"frozenset({'Siemens Acuson', 'probes', 'compatibility', 'Sequoia', '15L8W'})",Are there any other systems besides Sequoia that the Siemens Acuson 15L8W probe is compatible with?,1
+The frequency range of the Siemens Acuson 5C2 probe is 2.0 - 5.0 MHz.,"frozenset({'5C2', 'frequency', 'Siemens Acuson', 'probes'})",Is the frequency range of the Siemens Acuson 5C2 transducer above 5.0 MHz?,1
+The Siemens Acuson 9EVF4 probe is currently out of stock or not available for sale.,"frozenset({'stock', '9EVF4', 'Siemens Acuson', 'probes'})",Is the Siemens Acuson 9EVF4 probe currently available for sale?,1
+The Siemens Acuson 9EVF4 probe is currently out of stock or not available for sale.,"frozenset({'stock', '9EVF4', 'Siemens Acuson', 'probes'})",Can you purchase the Siemens Acuson 9EVF4 probe?,1
+The frequency range of the Siemens Acuson 9EVF4 probe is 4.0 - 9.0 MHz.,"frozenset({'frequency', '9EVF4', 'Siemens Acuson', 'probes'})",Are there any other frequency options available for the Siemens Acuson 9EVF4 probe besides 4.0 - 9.0 MHz?,0
+"The ATL HDI 1000 ultrasound system is compatible with the following ATL probes: C9-5ICT, CT8-4.","frozenset({'systems', 'ATL', 'compatibility', 'C9-5ICT, CT8-4', 'HDI 1000'})",Can you use any ATL probes on the ATL HDI 1000 ultrasound system?,0
+The Voluson E6 ultrasound system is made by G.E..,"frozenset({'G.E.', 'manufacturer', 'Voluson E6', 'systems'})",Is the Voluson E6 ultrasound system compatible with the RIC5-9D probe?,0
+The Voluson E8 ultrasound system is made by G.E..,"frozenset({'G.E.', 'manufacturer', 'Voluson E8', 'systems'})",Is the Voluson E8 made by a company other than G.E.?,1
+The LOGIQ S7 ultrasound system is made by G.E..,"frozenset({'G.E.', 'manufacturer', 'systems', 'LOGIQ S7'})",Is the LOGIQ S7 system compatible with the RIC5-9D probe?,0
+The G.E. Vivid E95 ultrasound system is compatible with the following G.E. probes: RIC5-9D.,"frozenset({'systems', 'G.E.', 'Vivid E95', 'compatibility', 'RIC5-9D'})",Is the RIC5-9D probe compatible with the Voluson E6 system?,0
+The G.E. Vivid E95 ultrasound system is compatible with the following G.E. probes: RIC5-9D.,"frozenset({'systems', 'G.E.', 'Vivid E95', 'compatibility', 'RIC5-9D'})",Which G.E. probe is compatible with both the LOGIQ S7 and LOGIQ E9 systems?,0
+The EPIQ 5 ultrasound system is made by Philips.,"frozenset({'EPIQ 5', 'systems', 'Philips', 'manufacturer'})",What company manufactures the EPIQ 5 transducer?,0
+"The Philips iE33 ultrasound system is compatible with the following Philips probes: C5-1, C8-5, L12-3, S4-1, S4-2.","frozenset({'C5-1, C8-5, L12-3, S4-1, S4-2', 'systems', 'compatibility', 'Philips', 'iE33'})","Are the C5-1, C8-5, L12-3, S4-1, and S4-2 probes compatible with any other ultrasound systems besides those made by Philips?",0
+The Siemens Acuson Juniper ultrasound system is compatible with the following Siemens Acuson probes: 12L3.,"frozenset({'systems', 'Siemens Acuson', 'compatibility', 'Juniper', '12L3'})",Are all Siemens Acuson probes compatible with the Siemens Acuson Juniper system?,0
+The Siemens Acuson Sequoia 512 ultrasound system is compatible with the following Siemens Acuson probes: 5C2.,"frozenset({'systems', 'Siemens Acuson', 'compatibility', 'Sequoia 512', '5C2'})",Does the Siemens Acuson Sequoia 512 system support all Siemens Acuson probes?,0

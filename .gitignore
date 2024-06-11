@@ -1,2 +1,7 @@
 
 notebooks/config.ini
+
+# Ignore directories containing models
+models/
+checkpoints/
+saved_models/
