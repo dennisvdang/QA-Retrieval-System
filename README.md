@@ -6,7 +6,7 @@
 
 This project focuses on developing and fine-tuning a question-answering (QA) information retrieval system to help customers find information about various medical equipments. The system is built using the [multi-qa-distilbert-cos-v1](https://huggingface.co/sentence-transformers/multi-qa-distilbert-cos-v1) model and fine-tuned on a custom dataset of 324 documents and 963 queries that emulate real customer inquiries about the company's products.
 
-To develop the system, we first generate a document corpus from tabular data and create synthetic queries using a local large language model (LLM). We then evaluate pre-trained embedding models from HuggingFace, perform Bayesian optimization for hyperparameter tuning, and fine-tune the most promising model using our customized document-query dataset.
+To develop the system, we first generate a document corpus from tabular data and create synthetic queries using a large language model (LLM) within our local Python computing environment. We then evaluate pre-trained sentence-transformer models from HuggingFace, perform Bayesian optimization for hyperparameter tuning, and fine-tune the most promising model using our synthesized document-query dataset.
 
 The fine-tuned DistilBERT model consistently outperformed other pre-trained models on a holdout test set across various performance metrics, showcasing the effectiveness of the fine-tuning process and the model's adaptability to the specific domain and data characteristics.
 
