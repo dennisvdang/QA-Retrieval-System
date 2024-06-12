@@ -1,6 +1,6 @@
 # QA Information Retrieval System using Fine-Tuned DistilBERT
 
-![MRR Test](images/mrr_test_plot.png)
+![MRR Test](images/accuracy_test_plot.png)
 
 ## Project Overview
 
