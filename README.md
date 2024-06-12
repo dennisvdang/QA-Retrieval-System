@@ -63,9 +63,9 @@ Questions:
 """
 ```
 
-A regular expression function was created to look for a sequence of a number followed by a period, whitespace, and then capture the text until the first question mark. This allowed us to parse the outputs, map each question onto its corresponding document and tags, and create a training dataset containing question-document pairs.
+- A regular expression function was created to look for a sequence of a number followed by a period, whitespace, and then capture the text until the first question mark. This allowed us to parse the outputs, map each question onto its corresponding document and tags, and create a training dataset containing question-document pairs.
 
-Another LLM prompt was employed to score each question-document pair based on its relevance. Any question-document pairs deemed irrelevant were manually reviewed and re-scored if necessary. These pairs were then merged back into the final dataset.
+- Another LLM prompt was employed to score each question-document pair based on its relevance. Any question-document pairs deemed irrelevant were manually reviewed and re-scored if necessary. These pairs were then merged back into the final dataset.
 
 The final fine-tuning dataset comprised 963 queries and a corpus of 324 documents.
 
