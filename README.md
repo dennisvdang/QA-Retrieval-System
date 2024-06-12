@@ -43,7 +43,9 @@ To prepare the data for the QA system, the tabular data from `probes.csv` and `s
 A large language model (LLM), llama3, was utilized to generate a diverse set of synthetic questions based on the information provided in each document. The prompt template provided examples of concise, answerable questions based on the information within each document. The model was instructed to generate three questions per document and structure its response as a numbered list.
 
 ```python
-prompt = """Generate three concise questions that can be answered using the following information, similar to the example provided. Provide only the questions, numbered as follows:
+prompt = """
+Generate three concise questions that can be answered using the following information, similar to the example provided. 
+Provide only the questions, numbered as follows:
 
 1. [insert question here]
 2. [insert question here]
@@ -57,7 +59,8 @@ Questions:
 3. Is the C3 probe made by ATL?
 
 Information: {document}
-Questions: """
+Questions: 
+"""
 ```
 
 A regular expression function was created to look for a sequence of a number followed by a period, whitespace, and then capture the text until the first question mark. This allowed us to parse the outputs, map each question onto its corresponding document and tags, and create a training dataset containing question-document pairs.
