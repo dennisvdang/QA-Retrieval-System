@@ -68,7 +68,7 @@ The final fine-tuning dataset comprised 963 queries and a corpus of 324 document
 
 ### Evaluating Pre-trained Embedding Models
 
-Three pre-trained embedding models from Hugging Face were evaluated: [all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2), [multi-qa-mpnet-base-dot-v1](https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1), and [multi-qa-distilbert-cos-v1](https://huggingface.co/sentence-transformers/multi-qa-distilbert-cos-v1). 
+Three pre-trained embedding models from Hugging Face were evaluated: [all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2), [multi-qa-mpnet-base-dot-v1](https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1), and [multi-qa-distilbert-cos-v1](https://huggingface.co/sentence-transformers/multi-qa-distilbert-cos-v1).
 
 To compare the performance of the pre-trained embedding models across different question types, a one-way ANOVA (analysis of variance) was conducted on the Mean Reciprocal Rank (MRR) scores followed by post-hoc Tukey HSD (honestly significant difference) tests to determine which specific model pairs had significantly different MRR scores. The `multi-qa-distilbert-cos-v1` model was selected for fine-tuning as it demonstrated the best performance, scoring equally as high if not the highest across all question types.
 
