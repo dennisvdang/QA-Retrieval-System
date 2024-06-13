@@ -124,3 +124,4 @@ This project successfully developed a QA information retrieval system using a fi
 - sentence-transformers
 - statsmodels
 - langchain
+- bayesian-optimization
