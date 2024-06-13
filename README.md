@@ -30,8 +30,8 @@ Feel free to explore these resources to gain a deeper understanding of the proje
 
 The project utilizes two datasets that were created from a portion of the company's catalog:
 
-1. **probes.csv**: This dataset contains information about various ultrasound probes, including the probe model, manufacturer, compatible systems, array type, frequency range, and stock availability.
-2. **systems.csv**: This dataset contains information about different ultrasound systems, including the system model, manufacturer, and compatible probes.
+1. `probes.csv`: This dataset contains information about various ultrasound probes, including the probe model, manufacturer, compatible systems, array type, frequency range, and stock availability.
+2. `systems.csv`: This dataset contains information about different ultrasound systems, including the system model, manufacturer, and compatible probes.
 
 ## Methodology
 
