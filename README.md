@@ -17,9 +17,10 @@ Below, you'll find information on where to locate specific files:
 - [`notebooks/qa_system.ipynb`](notebooks/qa_system.ipynb): This Jupyter Notebook contains the majority of the code used in the project, including data cleaning, query generation using OLLaMA, significance testing, Bayesian optimization, and fine-tuning of the selected model.
 
 - [`docs/`](docs/): The "docs" folder contains the following important documents:
-  - [`Capstone_Final_Report.pdf`](docs/Capstone_Final_Report.pdf): The final report for the capstone project, detailing the project's objectives, methodology, results, and conclusions.
+  - [`Capstone_Final_Report.pdf`](docs/Capstone_Final_Report.pdf): The final report for this capstone project, detailing the project's objectives, methodology, results, and conclusions.
   - [`Capstone_3_Presentation.pptx`](docs/Capstone_3_Presentation.pptx): The PowerPoint slides used for the capstone project presentation.
   - [`Capstone_3_Presentation.pdf`](docs/Capstone_3_Presentation.pdf): A PDF version of the capstone project presentation slides.
+  - [`Project Proposal.docx`](docs/Project_Proposal.docx): The initial project proposal document, outlining the project's objectives and intended deliverables.
 
 - [`images/`](images/): The "images" folder contains various plots and charts generated throughout the project.
 
@@ -75,7 +76,10 @@ Three pre-trained embedding models from Hugging Face were evaluated: [all-mpnet-
 
 To compare the performance of the pre-trained embedding models across different question types, a one-way ANOVA (analysis of variance) was conducted on the Mean Reciprocal Rank (MRR) scores followed by post-hoc Tukey HSD (honestly significant difference) tests to determine which specific model pairs had significantly different MRR scores. The `multi-qa-distilbert-cos-v1` model was selected for fine-tuning as it demonstrated the best performance, scoring equally as high if not the highest across all question types.
 
+**Distribution of RR scores for the three models across question types**
 ![Boxplot Visualization](images/boxplot.png)
+
+**MRR and SE for the three models across question types (only significant differences shown)**
 ![Bar Chart Array](images/bar_chart_array_type.png)
 ![Bar Chart Applications](images/bar_chart_applications.png)
 ![Bar Chart Compatibility](images/bar_chart_compatibility.png)
@@ -97,7 +101,9 @@ The `multi-qa-distilbert-cos-v1` model was fine-tuned using the best hyperparame
 
 The fine-tuned DistilBERT model was evaluated on a holdout test set and compared against three other pre-trained models: `multi-qa-distilbert-cos-v1`, `multi-qa-mpnet-base-dot-v1`, and `all-mpnet-base-v2`. The fine-tuned model consistently outperformed the other models across all performance metrics, demonstrating the effectiveness of the fine-tuning process and the model's ability to adapt to the specific domain and characteristics of the company's data.
 
+**Performance metrics for the fine-tuned model and the three pre-trained models on holdout test set**
 ![Table](images/results_table.png)
+
 ![Accuracy Test](images/accuracy_test_plot.png)
 ![Recall Test](images/recall_test_plot.png)
 ![MRR Test](images/mrr_test_plot.png)
