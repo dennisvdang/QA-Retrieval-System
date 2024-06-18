@@ -74,7 +74,9 @@ The final fine-tuning dataset comprised 963 queries and a corpus of 324 document
 
 Three pre-trained embedding models from Hugging Face were evaluated: [all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2), [multi-qa-mpnet-base-dot-v1](https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1), and [multi-qa-distilbert-cos-v1](https://huggingface.co/sentence-transformers/multi-qa-distilbert-cos-v1).
 
-To compare the performance of the pre-trained embedding models across different question types, a one-way ANOVA (analysis of variance) was conducted on the Mean Reciprocal Rank (MRR) scores followed by post-hoc Tukey HSD (honestly significant difference) tests to determine which specific model pairs had significantly different MRR scores. The `multi-qa-distilbert-cos-v1` model was selected for fine-tuning as it demonstrated the best performance, scoring equally as high if not the highest across all question types.
+To compare the performance of the pre-trained embedding models across different question types, a Levene's test was conducted to evaluate the homogeneity of variances across models, and the null hypothesis was rejected. Subsequently, a Friedman test (non-parametric repeated measures ANOVA) was performed, followed by Nemenyi post-hoc tests. Out of the eight question categories, six yielded significant differences.
+
+The overall trend showed that the `multi-qa-distilbert-cos-v1` model performed equally as high, if not the highest, in terms of Mean Reciprocal Rank (MRR), followed by the other question-answering model, `multi-qa-mpnet-base-dot-v1`. The generalized model, `all-mpnet-base-v2`, performed the worst. Consequently, the `multi-qa-distilbert-cos-v1` model was selected for fine-tuning due to its superior performance across most question types.
 
 **Distribution of RR scores for the three models across question types**
 ![Boxplot Visualization](images/boxplot.png)
@@ -84,6 +86,8 @@ To compare the performance of the pre-trained embedding models across different 
 ![Bar Chart Applications](images/bar_chart_applications.png)
 ![Bar Chart Compatibility](images/bar_chart_compatibility.png)
 ![Bar Chart Stock](images/bar_chart_stock.png)
+![Bar Chart System Manufacturer](images/bar_chart_systems_manufacturer.png)
+![Bar Chart System Compatibility](images/bar_chart_systems_compatibility.png)
 
 ### Bayesian Optimization
 
@@ -123,5 +127,6 @@ This project successfully developed a QA information retrieval system using a fi
 - matplotlib
 - sentence-transformers
 - statsmodels
+- scipy
 - langchain
 - bayesian-optimization
